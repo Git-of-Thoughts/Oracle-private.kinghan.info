@@ -1,0 +1,46 @@
+title: "Shangdian (King) Han"
+
+page_title_1: "Home"
+page_title_2: "Coursework"
+page_title_3: "Teaching"
+page_title_4: "Experience"
+
+menu: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="experience" style="color:#FFFFFF;">Experience</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
+
+menu_1: >
+  <a href="/" style="color:#FFFFFF;"><b><u>Home</u></b></a>
+  &emsp;
+  <a href="experience" style="color:#FFFFFF;">Experience</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
+
+menu_2: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="experience" style="color:#FFFFFF;">Experience</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;"><b><u>Coursework</u></b></a>
+
+menu_3: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="experience" style="color:#FFFFFF;">Experience</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
+
+menu_4: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="experience" style="color:#FFFFFF;"><b><u>Experience</u></b></a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
+
+show_github_header: false
+show_github_footer: false
+
+theme: jekyll-theme-cayman

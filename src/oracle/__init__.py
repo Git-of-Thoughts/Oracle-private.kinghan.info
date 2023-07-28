@@ -1,3 +1,4 @@
 def main():
-    """Secret number from the oracle"""
+    """Secret message from the oracle"""
+
     print(730)
