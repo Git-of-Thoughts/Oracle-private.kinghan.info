@@ -5,7 +5,7 @@ from pathlib import Path
 file_path = Path(os.path.realpath(__file__))
 
 # kingh0730 path
-kingh0730 = file_path.parent.parent / "kingh0730"
+kingh0730 = file_path.parent.parent.parent / "kingh0730"
 
 # Markdown files
 INDEX_PATH = kingh0730 / "index.md"
